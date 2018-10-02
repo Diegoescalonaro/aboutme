@@ -1,2 +1,2 @@
-# aboutme
+# about me
 Personal web
